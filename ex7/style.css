@@ -1,0 +1,20 @@
+nav menu {
+    display: flex;
+    flex-direction: column;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav li{
+    display: flex;
+    text-transform: uppercase;
+	padding: 10px;
+}
+
+.menu li a {
+    display: flex;
+    text-decoration: none;
+    color: #000000;   
+}
